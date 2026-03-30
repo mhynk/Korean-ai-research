@@ -3,7 +3,7 @@
 A 12-week industry-sponsored research project investigating how Korean AI companies navigate Western regulatory requirements (EU AI Act, NIST AI RMF), combining technical AI safety research with cross-cultural regulatory translation.
 
 For a discussion on the importance of regulation based on the author’s other research, please refer to the document below.
-[View Document](Korean-ai-research/Why Current AI Safety Frameworks Miss a Critical Attack Vector.pdf)
+[View Document](docs/Why Current AI Safety Frameworks Miss a Critical Attack Vector.pdf)
 
 ---
 
